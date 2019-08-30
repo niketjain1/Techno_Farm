@@ -24,9 +24,8 @@ Hardware:-Arduino
 
 ## Directory structure before running the following code
 
-
---TechnoFarm<br/>
 <pre>
+--TechnoFarm<br/>
   |--Arduino and connections<br/>
     |--ip_webcam.py<br/>
   |--Plant_disease<br/>
@@ -53,7 +52,7 @@ Hardware:-Arduino
 
 ## Dataset link
 
-https://www.kaggle.com/emmarex/plantdisease
+https://www.kaggle.com/emmarex/plantdisease<br/>
 https://www.kaggle.com/fpeccia/weed-detection-in-soybean-crops
 
 
